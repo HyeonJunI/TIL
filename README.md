@@ -4,6 +4,7 @@ git 사용법
 
 git init
 git add .
+git status
 git commmit -m "commit name"
 git branch
 git branch add-coach
