@@ -41,3 +41,20 @@ TAG 이름이다.
 문서들을 꾸며주는 부가적인 문법이라고 볼 수 있다
 
 <head>, <body> 태그들은 <html>태그에 포함된다
+<Doctype> 어떤 브라우저인지 알려주는 문법(?) 
+선언 선택자 종류 태그 선택자, 아이디 선택자(단 한번만), 클래스 선택자(그룹화가능)
+#select{font-size: 원하는 크기} id="select" ~~
+
+CSS 문법
+<font> 글자를 색칠해주는 코드
+
+<style> 태그의 안에 있는 코드들은 html 문법이 아닌 css 문법
+정보와 디자인의 분리
+<h1 style="color: red;">Hello World</h1> --> color:red만 css문법
+        <style>
+            h2{color: blue;} --> 이거만 css 문법
+        </style>
+
+색을 표시하는 두가지 방법
+
+선택자 팁 (selector) 는 중요하다
